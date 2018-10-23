@@ -1,2 +1,0 @@
-# TaskManagerService
-Task Manager Services
