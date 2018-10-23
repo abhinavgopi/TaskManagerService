@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 
 namespace TaskManager.Entities
-{
+{ 
     public class Task
     {
         [Key]
